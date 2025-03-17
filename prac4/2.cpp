@@ -4,3 +4,7 @@ typedef long long ll;
 using namespace std;
 #define v vector
 char el = '\n';
+
+int main() {
+  
+}
