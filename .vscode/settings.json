@@ -7,6 +7,9 @@
     "limits": "cpp",
     "semaphore": "cpp",
     "valarray": "cpp",
-    "iostream": "cpp"
-  }
+    "iostream": "cpp",
+    "utility": "cpp",
+    "xutility": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "enabled"
 }
